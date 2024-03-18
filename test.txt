@@ -1,2 +1,2 @@
-git lesson 2
+git intro lesson part 2
 This is my edit
